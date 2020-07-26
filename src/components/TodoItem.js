@@ -12,7 +12,7 @@ export class TodoItem extends Component {
             }
         }
     }
-
+// mark comp
     markComplete = (e) => {
         console.log(this.props)
     } 
