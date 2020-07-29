@@ -28,7 +28,7 @@ export class TodoItem extends Component {
     }
 }
 
-
+// Item Proto
 TodoItem.propTypes={
     todo:PropTypes.object.isRequired
 
